@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/sorthive",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sort numeric hive values, ranges, and human-readable units.",
+  "bin": {
+    "sorthive": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/sorthive.git"
+  },
+  "homepage": "https://theworker02.github.io/sorthive/",
+  "keywords": [
+    "sort",
+    "hive",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
